@@ -1,3 +1,5 @@
+#program to print reverse of given number
+
 n=int(input("enter n value:\n"))
 temp=0
 while n!=0:

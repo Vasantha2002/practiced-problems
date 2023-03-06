@@ -1,3 +1,5 @@
+#program to check the given num is armstrong or not
+
 n=int(input("enter a number: "))
 temp=n
 s=0
